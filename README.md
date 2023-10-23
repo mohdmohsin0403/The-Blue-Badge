@@ -11,7 +11,7 @@ Navigation can be a significant challenge for visually impaired individuals, lim
 
 ## Objective
 
-The primary objective of this project is to develop a user-friendly and intuitive app that utilizes advanced technologies like object detection, distance estimation, and text-to-speech conversion to assist visually impaired individuals in navigating unfamiliar environments.
+The primary objective of this project is to develop a user-friendly and intuitive app that utilizes advanced technologies  like object detection, distance estimation, and text-to-speech conversion to assist visually impaired individuals in navigating unfamiliar environments.
 
 ## Working Principle
 
